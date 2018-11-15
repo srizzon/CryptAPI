@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptAPI", "CryptAPI\CryptAPI.csproj", "{31A8974D-CB1F-4BBE-9F79-725E67EAD037}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptAPI", "CryptAPIFiles\CryptAPI.csproj", "{31A8974D-CB1F-4BBE-9F79-725E67EAD037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
