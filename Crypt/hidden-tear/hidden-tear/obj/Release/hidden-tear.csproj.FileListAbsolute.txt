@@ -1,0 +1,7 @@
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\bin\Release\hidden-tear.exe.config
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden_tear.FileUploadDTO.resources
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden_tear.Properties.Resources.resources
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden-tear.csproj.GenerateResource.Cache
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden-tear.csproj.CoreCompileInputs.cache
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden-tear.exe
+C:\Users\Rizzon\Documents\GitHub\hidden-tear\hidden-tear - Cópia\hidden-tear\obj\Release\hidden-tear.pdb
